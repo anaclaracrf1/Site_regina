@@ -1,0 +1,10 @@
+@import url(/style/pagina_inicial.css);
+
+:root {
+    --cor-de-fundo: #EAC1B5;
+}
+
+
+body {
+    background-color: var(--cor-de-fundo);
+}
