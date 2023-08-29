@@ -1,10 +1,13 @@
 @import url(/style/pagina_inicial.css);
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 
 :root {
-    --cor-de-fundo: #EAC1B5;
+    --cor-de-fundo: #f6f6f6;
+    --fonte-principal: 'Quicksand', sans-serif;
+    --cor-texto: #9d8189;
 }
-
 
 body {
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
 }
